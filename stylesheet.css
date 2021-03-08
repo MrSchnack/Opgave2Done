@@ -3,7 +3,7 @@
   }
   
   .header {
-    background-color: rgb(255, 244, 129);
+    background-color: rgb(251, 255, 0);
     border: 1px solid rgb(0, 0, 0);
     padding: 15px;
   }
@@ -46,7 +46,7 @@
   [class*="col-"] {
     float: left;
     padding: 15px;
-    background-color: rgb(255, 244, 129);
+    background-color: rgb(251, 255, 0);
 
   }
   
